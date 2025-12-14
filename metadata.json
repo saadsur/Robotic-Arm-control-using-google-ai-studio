@@ -1,0 +1,5 @@
+{
+  "name": "KUKA-Style Robot Arm Simulator",
+  "description": "A fully functional 6-DOF robotic arm simulator with pick-and-place capabilities. Features manual joint control, gripper mechanics, and a physics-based interaction system.",
+  "requestFramePermissions": []
+}
